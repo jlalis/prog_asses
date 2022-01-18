@@ -1,0 +1,5 @@
+- index.html file
+- npm bootstrap
+- bootstrap link
+- bootstrap templ
+- pages fd w pages file
